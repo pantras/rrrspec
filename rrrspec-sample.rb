@@ -17,7 +17,7 @@ describe "random tests that will eventually pass" do
     it "should get a '3'" do
         dice.should == 3
     end
-#=begin
+
     it "should get a '4'" do
         dice.should == 4
     end
@@ -29,5 +29,5 @@ describe "random tests that will eventually pass" do
     it "should get a '6'" do
         dice.should == 6
     end
-#=end
+
 end
